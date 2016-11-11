@@ -1,0 +1,15 @@
+be.kdg.se3.transportss
+be.kdg.se3.transportss.adapters
+be.kdg.se3.transportss.adapters.in
+be.kdg.se3.transportss.adapters.in.entity
+be.kdg.se3.transportss.adapters.out
+be.kdg.se3.transportss.generation
+be.kdg.se3.transportss.generation.entity
+be.kdg.se3.transportss.routing
+be.kdg.se3.transportss.routing.entity
+be.kdg.se3.transportss.routing.service
+be.kdg.se3.transportss.security
+be.kdg.se3.transportss.simulator
+be.kdg.se3.transportss.simulator.entity
+be.kdg.se3.transportss.simulator.service
+be.kdg.se3.transportss.utility
